@@ -38,3 +38,5 @@ plt.ylabel('売上', fontsize=16)
 plt.grid(True)
 plt.tick_params(labelsize=12)
 st.pyplot(plt.gcf())
+
+
